@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.neami.dev1"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.neami.dev1"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.neami.dev1"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.neami.dev1"
+        }
+    },
+    "dependent_plugins": {}
+}
